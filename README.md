@@ -1,6 +1,6 @@
 Final Mobile App (Expo + React Native)
 
-This is a mini mobile application built with React Native, Expo, and Expo Router as part of the final graded assignment. The app demonstrates navigation, local storage, API data fetching, and a clean dark-themed UI.
+This is a mobile application built with React Native, Expo, and Expo Router. The app demonstrates navigation, local storage, API data fetching, and a clean dark-themed UI.
 
 
 How to Run the App
